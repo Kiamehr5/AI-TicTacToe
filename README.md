@@ -72,8 +72,8 @@ Enter your move (0-8): 4
 
 ## 📁 Files
 
-- `tic_tac_toe_ai.py` – main script for training and playing
-- `tic_tac_toe_ai.pth` – saved trained model (auto-generated)
+- `aitictactoe.py` – main script for training and playing
+- `aitictactoe.pth` – saved trained model (auto-generated)
 
 ---
 
