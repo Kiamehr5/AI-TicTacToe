@@ -28,7 +28,7 @@ pip install torch numpy
 ### 2. Run the Game
 
 ```bash
-python tic_tac_toe_ai.py
+python aitictactoe.py
 ```
 
 - If no model exists, it will train over **10,000 episodes**.
