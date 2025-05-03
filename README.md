@@ -39,6 +39,7 @@ python aitictactoe.py
 
 ## 🎮 How to Play
 
+If you choose aitictactoe.py:
 After the AI makes its first move:
 
 - You'll be prompted to enter a number from `0-8` representing a spot on the board:
@@ -56,6 +57,8 @@ Enter your move (0-8): 4
 ```
 
 ---
+
+Otherwise GUITicTacToe.py is simple and is easy to play
 
 ## 🧠 How It Works
 
